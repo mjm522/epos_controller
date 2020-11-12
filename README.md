@@ -1,1 +1,2 @@
-# epos_controller
+# Maxon EPOS4 Controller, python interface using boost
+
